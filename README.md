@@ -4,12 +4,15 @@
 Introduction
 ============
 This application displays 10 recent posts about IoT
+
 Using the buttons the user is able to:
+
 1) Refresh for new searches
 2) Save searches to a CSV file
 3) Display the saved searches for offline functionality 
 
 This application was tested using Python 3.5.2
+
 This application was tested using Linux Mint 18.2
 
 ==========
@@ -18,6 +21,7 @@ Instal General Libraries
 To install the general libraries:
 
 pip install tkinter
+
 pip install pandas
 
 ==========
