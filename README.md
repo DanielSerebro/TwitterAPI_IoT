@@ -70,9 +70,12 @@ Running the application
 
 2)  Install the dependencies as seen above
 
-3)  Using python 3:
+3)  Using python 3 run in the command line:
+
     python main.py
+
                     OR
+
     python3 main.py
     
 ==========
